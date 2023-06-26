@@ -1,0 +1,4 @@
+captcha:
+    img-height: 80
+    img-width: 240
+    key-long: 6
